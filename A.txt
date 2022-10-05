@@ -1,0 +1,2 @@
+Commit 13, agrego A, y lo modifico,
+B no estaba, asi que no se pudo borrar
